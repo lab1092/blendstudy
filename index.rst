@@ -18,6 +18,7 @@ Contents:
    04_make1stscene/make1stscene
    05_detailup/detailup
    aa_misc/misc
+   ap_appendix/index
 
 
 Indices and tables
