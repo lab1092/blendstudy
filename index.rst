@@ -12,14 +12,9 @@ Contents:
    :maxdepth: 2
 
    00_intro/intro
-   01_install/install
-   02_quickstart/quickstart
-   03_tools/tools
-   04_make1stscene/make1stscene
-   05_detailup/detailup
-   aa_misc/misc
-   ap_appendix/index
 
+   aa_misc/index
+   ap_appendix/index
 
 Indices and tables
 ==================

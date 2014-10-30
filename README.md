@@ -3,4 +3,4 @@ blendstudy
 
 blenderを勉強するよ!!
 
-https://dl.dropbox.com/u/3864210/blendstudy/index.html
+   * http://lab1092.site44.com/
