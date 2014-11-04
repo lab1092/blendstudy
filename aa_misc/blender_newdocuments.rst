@@ -1,4 +1,4 @@
-﻿============================================
+============================================
 Blenderの新しいマニュアルドキュメント
 ============================================
 
@@ -29,7 +29,7 @@ Blender公式のマニュアルは2.4及び2.6がWiki形式で、2.7からのマ
 新しいBlenderマニュアル、翻訳関連メモ
 ==================================================
 
-   * `Ver 2.7 <http://lab1092.site44.com/blender-manual_ja/contents.html>`_ 日本語(テスト)
+   * `Ver 2.7 <http://lab1092.site44.com/blender-manual/ja/contents.html>`_ 日本語(テスト)
      これは「日本語翻訳できるかどうか」を確認するためのページです。
    * `blender公式のドキュメントプロジェクト <https://developer.blender.org/project/view/53/>`_
    * `ドキュメントをコンパイルしたはなし <https://github.com/lab1092/blendermisc/blob/master/blenderdoc53_ja.rst>`_
