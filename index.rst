@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    00_intro/intro
+   01_apollo/index
 
    aa_misc/index
    ap_appendix/index
