@@ -16,6 +16,7 @@ Contents:
 
    aa_misc/index
    ap_appendix/index
+   my_videos/index
 
 Indices and tables
 ==================
