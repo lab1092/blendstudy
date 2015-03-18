@@ -13,6 +13,7 @@ Contents:
 
    00_intro/intro
    01_apollo/index
+   02_launchblender/index
 
    aa_misc/index
    ap_appendix/index

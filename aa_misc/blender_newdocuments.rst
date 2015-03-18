@@ -29,8 +29,13 @@ Blender公式のマニュアルは2.4及び2.6がWiki形式で、2.7からのマ
 新しいBlenderマニュアル、翻訳関連メモ
 ==================================================
 
-   * `Ver 2.7 <http://lab1092.site44.com/blender-manual/ja/contents.html>`_ 日本語(テスト)
-     これは「日本語翻訳できるかどうか」を確認するためのページです。
+BFのプロジェクト:
+
    * `blender公式のドキュメントプロジェクト <https://developer.blender.org/project/view/53/>`_
+
+個人的に試しているもの:
+
+   * `Ver 2.7 <http://blender-manual-i18n.readthedocs.org/ja/latest/contents.html>`_ 日本語(テスト)
+     これは「日本語翻訳できるかどうか」を確認するためのページです。
    * `ドキュメントをコンパイルしたはなし <https://github.com/lab1092/blendermisc/blob/master/blenderdoc53_ja.rst>`_
    
