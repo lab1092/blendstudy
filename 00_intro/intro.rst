@@ -64,9 +64,10 @@ Pythonによる拡張(Add-on)
 
    :プロジェクトURL: http://orange.blender.org/
 
-.. raw:: html
+.. 
+		.. raw:: html
 
-   <iframe width="560" height="315" src="http://www.youtube.com/embed/TLkA0RELQ1g" frameborder="0" allowfullscreen></iframe>
+		   <iframe width="560" height="315" src="http://www.youtube.com/embed/TLkA0RELQ1g" frameborder="0" allowfullscreen></iframe>
 
 
 2.Big Buck Bunny(2008)
@@ -74,9 +75,10 @@ Pythonによる拡張(Add-on)
 
    :プロジェクトURL: http://www.bigbuckbunny.org/
 
-.. raw:: html
+..
+		.. raw:: html
 
-   <iframe width="560" height="315" src="http://www.youtube.com/embed/YE7VzlLtp-4" frameborder="0" allowfullscreen></iframe>
+		   <iframe width="560" height="315" src="http://www.youtube.com/embed/YE7VzlLtp-4" frameborder="0" allowfullscreen></iframe>
 
 
 3.Sintel(2010)
@@ -84,9 +86,10 @@ Pythonによる拡張(Add-on)
 
    :プロジェクトURL: http://www.sintel.org/
 
-.. raw:: html
+..
+		.. raw:: html
 
-   <iframe width="560" height="315" src="http://www.youtube.com/embed/eRsGyueVLvQ" frameborder="0" allowfullscreen></iframe>
+		   <iframe width="560" height="315" src="http://www.youtube.com/embed/eRsGyueVLvQ" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -95,21 +98,27 @@ Pythonによる拡張(Add-on)
 
    :プロジェクトURL: http://mango.blender.org/
 
-.. raw:: html
 
-   <iframe width="560" height="315" src="http://www.youtube.com/embed/R6MlUcmOul8" frameborder="0" allowfullscreen></iframe>
+..
+		.. raw:: html
+
+		   <iframe width="560" height="315" src="http://www.youtube.com/embed/R6MlUcmOul8" frameborder="0" allowfullscreen></iframe>
+
 
 monkaa(2014)
 ----------------------
 
    :ニュース記事URL: https://cloud.blender.org/news/Monkaa%20Open%20Movie%20released
 
-.. raw:: html
+..
+		.. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/0SohjW1hQos" frameborder="0" allowfullscreen></iframe>
+		   <iframe width="560" height="315" src="https://www.youtube.com/embed/0SohjW1hQos" frameborder="0" allowfullscreen></iframe>
 
-5.Tears Of Steel(2015)
+5.Cosmos Laundromat(2015)
 --------------------------
+
+2015年公開予定のプロジェクト。
 
    :プロジェクトURL: http://gooseberry.blender.org/
 
