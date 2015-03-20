@@ -5,6 +5,10 @@ Blender起動時オプション
 Blenderの起動時にオプションを渡すことで、自動化させたり、より高度なことが可能になります。
 
 
+note::
+   blenderを起動時オプション付きで実行するには、ターミナルでコマンドラインを書くか、
+   スクリプト内に記載したファイルを実行する方法があります。
+
 コマンドラインからの実行
 ===================================
 
@@ -54,7 +58,7 @@ hoge.blendを読み込む
 
   ::
 
-      $ blender hoge.blend -P testpy
+      blender hoge.blend -P testpy
 
 
 
@@ -62,7 +66,7 @@ hoge.blendを読み込む
 
   ::
 
-      $ blender hoge.blend -P test.py
+      blender hoge.blend -P test.py
 
 
 
