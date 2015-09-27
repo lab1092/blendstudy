@@ -6,7 +6,14 @@
 Welcome to blendstudy's documentation!
 ======================================
 
-Contents:
+blenderを勉強するよ!!
+
+決してグレート、という作例ではないですが「手順載せときますね」程度のもの。
+
+   :github: https://github.com/lab1092/blendstudy
+   :read the docs: http://blendstudy.readthedocs.org/en/latest/
+
+目次:
 
 .. toctree::
    :maxdepth: 2
@@ -15,6 +22,7 @@ Contents:
    01_apollo/index
    02_launchblender/index
    03_bpytips/index
+   04_pythonmodules/index
 
    aa_misc/index
    ap_appendix/index

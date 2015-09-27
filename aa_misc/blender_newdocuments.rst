@@ -10,7 +10,7 @@ Please Check:
    * https://developer.blender.org/project/view/53/
    * `bf-docboard <http://lists.blender.org/mailman/listinfo/bf-docboard>`_
 
-10/30現在、「英語ドキュメントを優先」の模様ですが…。
+2014/10/30現在、「英語ドキュメントを優先」の模様ですが…。
 
 マニュアルトップページ
 =============================

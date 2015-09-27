@@ -93,7 +93,7 @@ Blenderの画面上で「アクティブ」と「選択されている」とい�
 
 
 
-   .. image:: useasmacro_001.png
+   .. image:: tips_001.png
 
 
 (少し冗長に書きます)
