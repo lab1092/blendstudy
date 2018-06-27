@@ -10,4 +10,5 @@ Contents:
    :maxdepth: 2
 
    blender_newdocuments.rst
+   blenderandsns.rst
 

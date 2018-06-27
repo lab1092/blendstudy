@@ -33,7 +33,7 @@ BFのプロジェクト:
 
    * `blender公式のドキュメントプロジェクト <https://developer.blender.org/project/view/53/>`_
 
-個人的に試しているもの:
+日本語翻訳関連(2.7)の古い記録:
 
    * `Ver 2.7 <http://blender-manual-i18n.readthedocs.org/ja/latest/contents.html>`_ 日本語(テスト)
      これは「日本語翻訳できるかどうか」を確認するためのページです。
